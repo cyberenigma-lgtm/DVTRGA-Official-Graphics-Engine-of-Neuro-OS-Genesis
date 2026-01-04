@@ -66,3 +66,8 @@ libs/
 *.elf
 *.prx
 *.self
+# Professional Security (Private)
+dvtrga_security_bridge.h
+**/dvtrga_security*
+licensing/
+PROPRIETARY_SEC/

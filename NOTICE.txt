@@ -16,6 +16,11 @@ strictly prohibited and will be subject to legal action.
 This repository is provided for reference and verification purposes only.
 It does NOT grant any rights to use, copy, modify, or distribute DVTRGA.
 
+The author is NOT responsible for any damage caused by the use of this 
+driver. While the official DVTRGA engine is designed for absolute safety,
+any unauthorized modification can lead to severe system malfunction or
+hardware damage.
+
 For licensing inquiries, contact the author directly.
 
 ---

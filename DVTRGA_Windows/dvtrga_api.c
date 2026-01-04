@@ -6,9 +6,9 @@
  * Compilar: cl /LD dvtrga_api.c /Fe:dvtrga_api.dll user32.lib gdi32.lib
  */
 
+#include "dvtrga_security_bridge.h" // Private security module (gitignored)
 #include <stdint.h>
 #include <windows.h>
-
 
 // Estructura del contexto DVTRGA
 typedef struct {
@@ -26,10 +26,19 @@ typedef struct {
 // Contexto global
 static DVTRGA_CONTEXT g_ctx = {0};
 
-// Inicializar DVTRGA
-__declspec(dllexport) int DvtrgaInit(uint32_t width, uint32_t height) {
+// Inicializar DVTRGA con Licencia Profesional
+__declspec(dllexport) int DvtrgaInit(uint32_t width, uint32_t height,
+                                     const char *license_key) {
   if (g_ctx.initialized)
     return 0;
+
+  // --- VALIDACIÓN DE SEGURIDAD (ENTERPRISE) ---
+  if (!Dvtrga_Security_Validate(license_key, NULL)) {
+    OutputDebugStringA(
+        "DVTRGA: FAILED TO INITIALIZE - INVALID OR EXPIRED LICENSE.");
+    return -1; // Bloqueo de inicialización
+  }
+  // --------------------------------------------
 
   // Crear ventana invisible para obtener DC
   g_ctx.hwnd = GetDesktopWindow();

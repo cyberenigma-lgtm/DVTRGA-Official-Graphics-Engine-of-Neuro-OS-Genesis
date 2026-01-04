@@ -20,7 +20,8 @@ extern "C" {
 #endif
 
 // Funciones exportadas
-__declspec(dllimport) int DvtrgaInit(uint32_t width, uint32_t height);
+__declspec(dllimport) int DvtrgaInit(uint32_t width, uint32_t height,
+                                     const char *license_key);
 __declspec(dllimport) void DvtrgaClear(uint32_t color);
 __declspec(dllimport) void DvtrgaPutPixel(uint32_t x, uint32_t y,
                                           uint32_t color);
