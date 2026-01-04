@@ -8,7 +8,7 @@ For all inquiries regarding:
 - Integration services for specialized OS architectures.
 - Strategic partnerships within the **Neuro-OS Genesis** ecosystem.
 
-**Contact Email**: [licensing@neuro-os.genesis](mailto:licensing@neuro-os.genesis)
+**Contact Email**: [neuro.so.ia.sim@gmail.com](mailto:neuro.so.ia.sim@gmail.com)
 
 ---
 
