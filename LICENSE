@@ -1,0 +1,182 @@
+DVTRGA PROPRIETARY LICENSE – FULL PROTECTION EDITION
+Version 1.0 – 2026
+Author: José Manuel Moreno Cano
+All Rights Reserved
+
+═══════════════════════════════════════════════════════════════════════
+
+1. Propiedad Intelectual
+
+El motor gráfico DVTRGA, incluyendo todo su código fuente, binarios,
+documentación, diseños, algoritmos, estructuras internas, nomenclatura,
+arquitectura y cualquier tecnología asociada, es propiedad exclusiva de
+José Manuel Moreno Cano.
+
+DVTRGA es un componente nativo del sistema operativo Neuro-OS Genesis,
+debidamente registrado bajo las leyes de propiedad intelectual de España.
+
+No se transfiere ningún derecho de propiedad al usuario bajo ninguna
+circunstancia.
+
+═══════════════════════════════════════════════════════════════════════
+
+2. Permiso Limitado de Uso
+
+Se concede únicamente un permiso no exclusivo, no transferible y revocable
+para:
+
+  • Ejecutar DVTRGA con fines de testeo, evaluación, demostración o
+    investigación personal.
+
+  • Revisar documentación incluida en este repositorio.
+
+No se concede ningún permiso adicional.
+
+═══════════════════════════════════════════════════════════════════════
+
+3. Prohibiciones Absolutas
+
+Sin autorización expresa y por escrito del autor, queda estrictamente
+prohibido:
+
+  ❌ Copiar total o parcialmente DVTRGA.
+
+  ❌ Modificar, alterar, adaptar o refactorizar el código.
+
+  ❌ Integrar DVTRGA en cualquier software, motor, sistema operativo o
+     producto.
+
+  ❌ Distribuir, publicar o compartir DVTRGA o cualquier derivado.
+
+  ❌ Realizar ingeniería inversa, desensamblado o análisis estructural.
+
+  ❌ Crear forks, derivados o versiones alternativas.
+
+  ❌ Usar DVTRGA con fines comerciales, empresariales o redistribuibles.
+
+  ❌ Eliminar, alterar u ocultar avisos de copyright o autoría.
+
+Cualquier uso no autorizado constituye una infracción legal y será
+perseguido conforme a la ley.
+
+═══════════════════════════════════════════════════════════════════════
+
+4. Autoría Inalterable
+
+Toda modificación, alteración, adaptación, traducción, mejora,
+optimización o creación de obras derivadas basadas en DVTRGA —ya sea
+total o parcial—:
+
+  • NO transfiere derechos de autor.
+  • NO crea nueva autoría.
+  • NO concede derechos de explotación.
+
+Toda obra derivada se considera automáticamente propiedad intelectual
+del autor original: José Manuel Moreno Cano.
+
+El usuario NO puede reclamar autoría, coautoría ni derechos sobre ninguna
+modificación, mejora o derivado de DVTRGA.
+
+Cualquier intento de reclamar autoría sobre código derivado de DVTRGA
+constituye una violación de esta licencia y de las leyes de propiedad
+intelectual aplicables.
+
+═══════════════════════════════════════════════════════════════════════
+
+5. Firma del Autor
+
+El autor puede firmar cualquier parte del código, documentación o archivos
+asociados con su nombre o identificador.
+
+Dicha firma:
+
+  • Certifica la autoría original.
+  • Refuerza la protección legal.
+  • NO puede ser eliminada, alterada ni sustituida.
+
+La eliminación o alteración de firmas del autor constituye una violación
+grave de esta licencia.
+
+═══════════════════════════════════════════════════════════════════════
+
+6. Limitación de Responsabilidad
+
+DVTRGA se proporciona "TAL CUAL" (AS IS), sin garantías de ningún tipo,
+expresas o implícitas.
+
+El autor NO será responsable de:
+
+  • Daños directos o indirectos.
+  • Pérdidas económicas o de datos.
+  • Daños a hardware o software.
+  • Fallos del sistema o interrupciones.
+  • Daños a terceros.
+  • Cualquier consecuencia derivada del uso o mal uso de DVTRGA.
+
+El usuario asume toda responsabilidad por el uso de DVTRGA.
+
+═══════════════════════════════════════════════════════════════════════
+
+7. Uso No Autorizado
+
+Cualquier uso de DVTRGA fuera del permiso de testeo y evaluación personal:
+
+  • Viola esta licencia.
+  • Invalida cualquier derecho implícito.
+  • Transfiere toda responsabilidad legal al usuario.
+  • Puede resultar en acciones legales civiles y penales.
+
+═══════════════════════════════════════════════════════════════════════
+
+8. Licencias Comerciales
+
+Para cualquier uso comercial, integración, redistribución, explotación o
+incorporación en productos de terceros, se requiere una licencia comercial
+específica, negociada directamente con el autor.
+
+Sin dicha licencia, NO se permite ningún uso comercial, empresarial o
+redistribuible de DVTRGA.
+
+Contacte al autor para consultas sobre licenciamiento comercial.
+
+═══════════════════════════════════════════════════════════════════════
+
+9. Terminación
+
+Esta licencia se termina automáticamente si el usuario viola cualquiera
+de sus términos.
+
+Al terminar esta licencia, el usuario debe:
+
+  • Cesar inmediatamente todo uso de DVTRGA.
+  • Eliminar todas las copias en su posesión.
+  • Destruir cualquier material derivado.
+
+═══════════════════════════════════════════════════════════════════════
+
+10. Jurisdicción y Ley Aplicable
+
+Esta licencia se rige por las leyes de España.
+
+Cualquier disputa relacionada con DVTRGA será sometida a la jurisdicción
+exclusiva de los tribunales españoles.
+
+═══════════════════════════════════════════════════════════════════════
+
+11. Aceptación
+
+El uso de DVTRGA implica la aceptación total e incondicional de esta
+licencia.
+
+Si el usuario NO está de acuerdo con estos términos, debe cesar su uso
+inmediatamente y eliminar todas las copias de DVTRGA.
+
+═══════════════════════════════════════════════════════════════════════
+
+Copyright © 2026 José Manuel Moreno Cano
+Part of Neuro-OS Genesis Registered Operating System
+All rights reserved.
+
+DVTRGA is a proprietary component of Neuro-OS Genesis.
+No part of this software may be used, copied, modified, or distributed
+without explicit written permission from the author.

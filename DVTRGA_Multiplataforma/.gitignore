@@ -1,0 +1,42 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.exp
+
+# Compiled outputs
+*.out
+*.app
+*.bin
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test outputs
+*.bmp
+*.png
+*.jpg
+dvtrga_output.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~

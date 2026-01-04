@@ -1,0 +1,25 @@
+DVTRGA – OFFICIAL NOTICE
+All Rights Reserved – 2026
+Author: José Manuel Moreno Cano
+
+This repository contains proprietary information related to the DVTRGA
+graphics engine, a native component of Neuro-OS Genesis (registered
+operating system).
+
+No part of this repository may be copied, reproduced, distributed, or
+used in any form without explicit written authorization from the author.
+
+DVTRGA is protected under Spanish and international intellectual property
+laws. Unauthorized use, duplication, modification, or distribution is
+strictly prohibited and will be subject to legal action.
+
+This repository is provided for reference and verification purposes only.
+It does NOT grant any rights to use, copy, modify, or distribute DVTRGA.
+
+For licensing inquiries, contact the author directly.
+
+---
+
+Copyright © 2026 José Manuel Moreno Cano
+Part of Neuro-OS Genesis Registered Operating System
+All rights reserved.

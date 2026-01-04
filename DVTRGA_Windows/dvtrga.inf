@@ -1,0 +1,66 @@
+;
+; DVTRGA.INF - Archivo de instalación del driver
+; Direct Visual Transport & Render Graphics Architecture
+;
+; Copyright (C) 2025 José Manuel Moreno Cano
+; Todos los derechos reservados. All rights reserved.
+;
+; Autor: José Manuel Moreno Cano
+; Email: admin@neuro-os.es
+; Web: https://neuro-os.es
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=Display
+ClassGuid={4d36e968-e325-11ce-bfc1-08002be10318}
+Provider=%ManufacturerName%
+DriverVer=12/29/2025,1.0.0.0
+CatalogFile=dvtrga.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+DVTRGA_Device_CoInstaller_CopyFiles = 11
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+dvtrga.sys = 1,,
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTamd64
+
+[Standard.NTamd64]
+%DVTRGA.DeviceDesc%=DVTRGA_Device, PCI\VEN_1234&DEV_1111
+%DVTRGA.DeviceDesc%=DVTRGA_Device, PCI\VEN_80EE&DEV_BEEF
+%DVTRGA.DeviceDesc%=DVTRGA_Device, PCI\VEN_8086&DEV_*
+
+[DVTRGA_Device.NT]
+CopyFiles=Drivers_Dir
+
+[Drivers_Dir]
+dvtrga.sys
+
+[DVTRGA_Device.NT.Services]
+AddService = DVTRGA,%SPSVCINST_ASSOCSERVICE%, DVTRGA_Service_Inst
+
+[DVTRGA_Service_Inst]
+DisplayName    = %DVTRGA.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\dvtrga.sys
+LoadOrderGroup = Extended Base
+
+[DVTRGA_Device.NT.Wdf]
+KmdfService =  DVTRGA, DVTRGA_wdfsect
+[DVTRGA_wdfsect]
+KmdfLibraryVersion = 1.15
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+ManufacturerName="José Manuel Moreno Cano / Neuro-OS"
+DiskName = "DVTRGA Installation Disk"
+DVTRGA.DeviceDesc = "DVTRGA Graphics Driver"
+DVTRGA.SVCDESC = "DVTRGA Graphics Service"
