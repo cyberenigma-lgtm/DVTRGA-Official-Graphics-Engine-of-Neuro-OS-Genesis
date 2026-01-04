@@ -37,6 +37,7 @@ This repository exists **only as an official reference** for documentation and l
 - **[Integration Guide](Integration)** - How to integrate into your project
 - **[Testing](Testing)** - Test results and benchmarks
 - **[Performance Report](../PERFORMANCE_BENCHMARKS)** - Detailed performance analysis
+- **[Legal Disclaimer](../DISCLAIMER.md)** - Essential safety and liability notice
 - **[API Reference](API-Reference)** - Complete API documentation
 
 ---

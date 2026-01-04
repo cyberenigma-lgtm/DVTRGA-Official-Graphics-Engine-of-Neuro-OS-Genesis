@@ -65,6 +65,16 @@ All rights reserved under Spanish and international intellectual property law.
 
 ---
 
+## ⚖️ Disclaimer & Accountability
+
+- **Safety First**: The official **DVTRGA** driver is engineered for maximum safety and stability.
+- **No Liability**: The author is **NOT responsible** for any damage to hardware or software caused by the use or misuse of this technology.
+- **Modifications**: Any modification to the core driver logic is strictly prohibited and can result in severe system malfunction. The author is not responsible for failures in tampered versions.
+
+See the full **[DISCLAIMER](DISCLAIMER.md)** for detailed legal terms.
+
+---
+
 ## 🔒 Licensing
 
 For commercial licensing inquiries, please refer to our official **[Contact & Licensing](CONTACT.md)** page.
