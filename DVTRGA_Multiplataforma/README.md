@@ -17,7 +17,6 @@ DVTRGA Multiplataforma provides cross-platform graphics acceleration for Linux a
 **Part of Neuro-OS Genesis Ecosystem**
 
 - **Owner**: José Manuel Moreno Cano
-- **ID**: DNI 77453214-R
 - **Registration**: January 1, 2026
 - **Jurisdiction**: Spain (ES)
 
