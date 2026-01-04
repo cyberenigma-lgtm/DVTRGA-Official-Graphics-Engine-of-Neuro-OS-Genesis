@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/cyberenigma-lgtm/DVTRGA-Official-Graphics-Engine-of-Neuro-OS-Genesis/main/DVTRGA_LOGO.png" alt="DVTRGA Logo" width="600">
 </p>
 
-**DVTRGA is the official rendering engine of the Neuro-OS / Siglo22 architecture.**
+**DVTRGA is the official rendering engine of the Neuro-OS-Genesis architecture.**
 
 This repository exists solely as an **official reference point** for documentation, licensing, and verification of authorship.
 
