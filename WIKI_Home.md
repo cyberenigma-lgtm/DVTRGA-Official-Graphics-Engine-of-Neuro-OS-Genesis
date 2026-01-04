@@ -42,7 +42,7 @@ This repository exists **only as an official reference** for documentation and l
 
 ## 🔒 Licensing
 
-For commercial licensing inquiries, contact the author.
+For commercial licensing inquiries, please refer to the official **[Contact & Licensing](../CONTACT.md)** page.
 
 See [LICENSE](../LICENSE) for full terms.
 

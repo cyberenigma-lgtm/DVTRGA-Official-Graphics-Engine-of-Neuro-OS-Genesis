@@ -60,9 +60,11 @@ All rights reserved under Spanish and international intellectual property law.
 
 ## 🔒 Licensing
 
-##**Direct Inquiry**: [neuro.so.ia.sim@gmail.com](mailto:neuro.so.ia.sim@gmail.com)e see the official **[Contact & Licensing](../CONTACT.md)** page.
+For commercial licensing inquiries, please refer to our official **[Contact & Licensing](CONTACT.md)** page.
 
-See [LICENSE](../LICENSE) for full terms.
+**Direct Inquiry**: [neuro.so.ia.sim@gmail.com](mailto:neuro.so.ia.sim@gmail.com)
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
