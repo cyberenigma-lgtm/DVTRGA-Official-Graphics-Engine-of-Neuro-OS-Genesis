@@ -58,11 +58,11 @@ All rights reserved under Spanish and international intellectual property law.
 
 ---
 
-## Commercial Licensing
+## 🔒 Licensing
 
-For commercial use, integration, or licensing inquiries, contact the author directly.
+For commercial licensing inquiries, please see the official **[Contact & Licensing](../CONTACT.md)** page.
 
-**This repository is for reference and verification only.**
+See [LICENSE](../LICENSE) for full terms.
 
 ---
 
