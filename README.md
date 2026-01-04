@@ -1,7 +1,7 @@
 # DVTRGA — Proprietary Graphics Engine for Neuro-OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyberenigma-lgtm/DVTRGA-Official-Graphics-Engine-of-Neuro-OS-Genesis/main/DVTRGA_LOGO.png" alt="DVTRGA Logo" width="600">
+  <img src="DVTRGA_LOGO.png" alt="DVTRGA Logo" width="600">
 </p>
 
 **DVTRGA is the official rendering engine of the Neuro-OS-Genesis architecture.**
@@ -13,7 +13,7 @@
 - **Throughput**: **8.85 GB/s** (Software-only pipeline)
 - **Efficiency**: Verified stable with **1,000,000 active particles**.
 
-![DVTRGA Performance Milestone](milestone_302.png)
+![DVTRGA Performance Milestone](./milestone_302.png)
 *Desktop Baseline at 302 FPS (Experimental OS Environment).*
 
 See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical details.
@@ -60,7 +60,7 @@ See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical detai
 All rights reserved under Spanish and international intellectual property law.
 *These results confirm that the driver maintains stability even under unusually heavy workloads.*
 
-![Stress Test Proof](stress_151.png)
+![Stress Test Proof](./stress_151.png)
 *1,000,000 Particles / 151.7 FPS (Experimental OS Environment).*
 
 ---

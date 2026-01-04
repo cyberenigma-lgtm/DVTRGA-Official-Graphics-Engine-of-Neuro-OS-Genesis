@@ -20,7 +20,7 @@ A high-load benchmark was executed to evaluate the engine’s behavior under ext
 | **Data Throughput** | 8.85 GB/s (Measured on Win11 Host) |
 | **Target Environment** | Intel Celeron (CPU-only, no GPU) |
 
-![Stress Test Proof](stress_151.png)
+![Stress Test Proof](./stress_151.png)
 *1,000,000 Particles / 151.7 FPS (Captured in Experimental Custom OS environment).*
 
 *These results confirm that the driver maintains stability even under unusually heavy workloads, despite the host OS limitations.*
@@ -33,7 +33,7 @@ The base driver was integrated into the primary desktop environment to measure r
 | **Desktop Baseline (Win11 Host)** | **302 FPS** (Limit Hit) |
 | **Dynamic Simulation (Parallax)** | **243+ FPS** |
 
-![Desktop Milestone](milestone_302.png)
+![Desktop Milestone](./milestone_302.png)
 *Sustained 302 FPS Milestone in Experimental System mode.*
 
 *These values demonstrate that the driver performs consistently even when sandboxed within a standard consumer OS like Windows 11.*
