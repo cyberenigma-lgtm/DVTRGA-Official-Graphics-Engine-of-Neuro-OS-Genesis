@@ -35,6 +35,7 @@ This repository exists **only as an official reference** for documentation and l
 - **[Usage Guide](Usage)** - How to use DVTRGA
 - **[Integration Guide](Integration)** - How to integrate into your project
 - **[Testing](Testing)** - Test results and benchmarks
+- **[Performance Report](../PERFORMANCE_BENCHMARKS)** - Detailed performance analysis
 - **[API Reference](API-Reference)** - Complete API documentation
 
 ---

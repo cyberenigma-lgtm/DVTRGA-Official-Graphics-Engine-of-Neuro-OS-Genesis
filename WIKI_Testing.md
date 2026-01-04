@@ -174,6 +174,25 @@ int main() {
 
 ---
 
+## 🚀 Low-Power Hardware Verification (Efficiency Test)
+
+A special test was conducted on consumer-grade low-power hardware to verify the engine's architectural efficiency.
+
+### System Specs
+- **CPU**: Intel Celeron (N Series)
+- **GPU**: NONE (Pure Software Rendering)
+- **RAM**: DDR4 4GB
+
+### Results
+| Mode | Performance | Complexity |
+| :--- | :--- | :--- |
+| **Desktop Baseline** | **302 FPS** | Standard UI |
+| **Stress Test** | **151.7 FPS** | **1,000,000 Particles** |
+
+**Conclusion**: DVTRGA's high-efficiency pipeline allows high-performance rendering even on hardware without dedicated graphics acceleration, achieving throughputs of **8.85 GB/s** in software.
+
+---
+
 ## 🎯 Conclusion
 
 **DVTRGA has been successfully tested and verified on Windows 11.**

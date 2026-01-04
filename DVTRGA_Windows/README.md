@@ -17,7 +17,7 @@ DVTRGA Windows provides native Windows graphics acceleration with DLL support fo
 **Part of Neuro-OS Genesis Ecosystem**
 
 - **Owner**: José Manuel Moreno Cano
-- **ID**: DNI 77453214-R
+- **ID**: Verified Author (Neuro-OS Genesis)
 - **Registration**: January 1, 2026
 - **Jurisdiction**: Spain (ES)
 

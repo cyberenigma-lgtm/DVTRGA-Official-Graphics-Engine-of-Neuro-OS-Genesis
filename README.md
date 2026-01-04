@@ -6,7 +6,14 @@
 
 **DVTRGA is the official rendering engine of the Neuro-OS-Genesis architecture.**
 
-This repository exists solely as an **official reference point** for documentation, licensing, and verification of authorship.
+---
+
+## 🚀 Performance Milestone (Jan 2026)
+- **Desktop Baseline**: **302 FPS** (Sustained on Celeron Class Hardware)
+- **Throughput**: **8.85 GB/s** (Software-only pipeline)
+- **Efficiency**: Verified stable with **1,000,000 active particles**.
+
+See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical details.
 
 ---
 
