@@ -13,6 +13,9 @@
 - **Throughput**: **8.85 GB/s** (Software-only pipeline)
 - **Efficiency**: Verified stable with **1,000,000 active particles**.
 
+![DVTRGA Performance Milestone](milestone_302.png)
+*Desktop Baseline at 302 FPS (Experimental OS Environment).*
+
 See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical details.
 
 ---
@@ -55,6 +58,10 @@ See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical detai
 - **Status**: Closed Technology
 
 All rights reserved under Spanish and international intellectual property law.
+*These results confirm that the driver maintains stability even under unusually heavy workloads.*
+
+![Stress Test Proof](stress_151.png)
+*1,000,000 Particles / 151.7 FPS (Experimental OS Environment).*
 
 ---
 
