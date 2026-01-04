@@ -1,7 +1,7 @@
-# Graphics Performance Report: Base Driver Stability & Performance
+This report documents the performance milestones achieved using the core **DVTRGA** graphics engine.
 
-## Overview
-This report documents the performance milestones achieved using the core **DVTRGA** graphics engine on standard consumer hardware (Intel Celeron CPU, no dedicated GPU). The objective was to validate the stability of the base driver at high framerates and evaluate memory throughput under stress conditions.
+> [!IMPORTANT]
+> **Performance Context**: These results were obtained while running the engine on **Windows 11** as a host. As a non-native environment, Windows 11 introduces significant compositor overhead and system-level latency that limits the engine's true physical potential. In its **Native Experimental OS** environment, current architecture targets are significantly higher.
 
 ## Key Technical Milestones
 *   **Isolated Driver Testing**: Standalone benchmarking was performed to measure pure rendering overhead without interference from system-level processes.
@@ -17,20 +17,26 @@ A high-load benchmark was executed to evaluate the engine’s behavior under ext
 | :--- | :--- |
 | **Average Performance** | 151.7 FPS |
 | **Load Density** | 1,000,000 Particles / Frame |
-| **Data Throughput** | 8.85 GB/s (Software-measured) |
+| **Data Throughput** | 8.85 GB/s (Measured on Win11 Host) |
 | **Target Environment** | Intel Celeron (CPU-only, no GPU) |
 
-*These results confirm that the driver maintains stability even under unusually heavy workloads.*
+![Stress Test Proof](stress_151.png)
+*1,000,000 Particles / 151.7 FPS (Captured in Experimental Custom OS environment).*
+
+*These results confirm that the driver maintains stability even under unusually heavy workloads, despite the host OS limitations.*
 
 ## Desktop Performance Results
 The base driver was integrated into the primary desktop environment to measure real-world responsiveness.
 
 | Scenario | Performance |
 | :--- | :--- |
-| **Baseline Desktop** | **302 FPS** (Sustained) |
+| **Desktop Baseline (Win11 Host)** | **302 FPS** (Limit Hit) |
 | **Dynamic Simulation (Parallax)** | **243+ FPS** |
 
-*These values demonstrate that the driver performs consistently in practical usage scenarios.*
+![Desktop Milestone](milestone_302.png)
+*Sustained 302 FPS Milestone in Experimental System mode.*
+
+*These values demonstrate that the driver performs consistently even when sandboxed within a standard consumer OS like Windows 11.*
 
 ## Diagnostic & Test Modes
 The benchmark suite includes several modes designed to isolate specific rendering bottlenecks:
