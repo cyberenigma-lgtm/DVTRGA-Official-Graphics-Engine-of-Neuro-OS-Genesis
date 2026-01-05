@@ -53,7 +53,7 @@ dvtrga_test.exe
 - **Average FPS**: 600+
 - **Frame Time**: ~1.6ms
 - **Memory Usage**: 8MB (framebuffer)
-- **DLL Size**: 103 KB
+- **Binary Size**: **53 KB**
 - **CPU Usage**: <5% (idle rendering)
 
 ---
@@ -189,7 +189,7 @@ A special test was conducted on consumer-grade low-power hardware to verify the 
 | **Desktop Baseline** | **302 FPS** | Standard UI |
 | **Stress Test** | **151.7 FPS** | **1,000,000 Particles** |
 
-**Conclusion**: DVTRGA's high-efficiency pipeline allows high-performance rendering even on hardware without dedicated graphics acceleration, achieving throughputs of **8.85 GB/s** in software.
+**Conclusion**: DVTRGA's high-efficiency pipeline (only **53 KB**) allows high-performance rendering even on hardware without dedicated graphics acceleration, achieving throughputs of **8.85 GB/s** in software.
 
 ---
 
