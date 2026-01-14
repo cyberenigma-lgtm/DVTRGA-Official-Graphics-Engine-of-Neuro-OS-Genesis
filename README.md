@@ -86,6 +86,6 @@ See [LICENSE](LICENSE) for full terms.
 
 ---
 
-**Copyright © 2026 José Manuel Moreno Cano**  
+**Copyright © 2026 José Manuel**  
 **Part of Neuro-OS Genesis Registered Operating System**  
 **All rights reserved.**
