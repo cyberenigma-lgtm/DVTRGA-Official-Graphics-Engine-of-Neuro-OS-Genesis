@@ -53,7 +53,7 @@ See the full [Performance Report](PERFORMANCE_BENCHMARKS.md) for technical detai
 
 **DVTRGA** is a proprietary component of **Neuro-OS Genesis**, a registered operating system.
 
-- **Author**: José Manuel Moreno Cano
+- **Author**: José Manuel
 - **Registration**: January 1, 2026
 - **Jurisdiction**: Spain (ES)
 - **Status**: Closed Technology
