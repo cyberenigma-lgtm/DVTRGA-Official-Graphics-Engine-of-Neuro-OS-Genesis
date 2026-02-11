@@ -67,7 +67,7 @@ cl dvtrga_test.c dvtrga_api.lib
 ## 🏛️ Intellectual Property & Legal
 
 **Part of Neuro-OS Genesis Ecosystem**
-- **Author**: José Manuel Moreno Cano
+- **Author**: José Manuel
 - **Identity**: SIGLO 22 Verified
 - **Jurisdiction**: Spain (ES)
 

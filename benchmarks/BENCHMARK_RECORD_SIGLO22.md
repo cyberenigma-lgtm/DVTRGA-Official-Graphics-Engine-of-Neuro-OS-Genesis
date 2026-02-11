@@ -27,4 +27,4 @@ This document records the official performance figures for the **DVTRGA2 SIGLO22
 - **Deep Injection**: Verified multi-layer driver identity capture in 3DMark SystemInfo.
 
 ---
-*Report certified by Neuro-OS Genesis Team.*
+*Report certified by José Manuel - Neuro-OS Genesis Team.*
