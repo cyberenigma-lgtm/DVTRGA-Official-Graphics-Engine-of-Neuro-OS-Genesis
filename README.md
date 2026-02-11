@@ -1,63 +1,80 @@
-# DVTRGA2 - Next-Gen Graphics Core (SIGLO 22 Edition)
+# DVTRGA — Direct Visual Transport (V1 + V2 SIGLO 22)
 
-**Official Core Graphics Architecture for Neuro-OS Genesis**
+<p align="center">
+  <img src="DVTRGA_LOGO.png" alt="DVTRGA Logo" width="600">
+</p>
+
+**DVTRGA is a real, signed, and shielded proprietary graphics engine designed for Neuro-OS Genesis. From its CPU rasterizer roots to the Hypersonic GPU revolution, it proves that extreme efficiency is the future.**
 
 ---
 
-## 🎖️ Version 2.0: "Hypersonic SIGLO 22" Update
+## 🎖️ [NEW] Version 2.0: "Hypersonic SIGLO 22" (NEW WORLD RECORD)
 
-The repository has been officially upgraded to **DVTRGA2**. This milestone marks the integration of the **Hypersonic GPU Engine**, achieving unprecedented performance benchmarks on integrated graphics architectures.
+The repository has been officially upgraded to **DVTRGA2**. This milestone marks the integration of the **Hypersonic GPU Engine**, achieving unprecedented performance benchmarks on integrated graphics.
 
-### 🏆 World Ranking Milestone (Steel Nomad)
-
-We have officially entered the **3DMark Hall of Fame** with a custom driver signature.
+### 🏆 World Ranking Achievement (Steel Nomad)
+We have officially entered the **3DMark Hall of Fame** with a custom high-performance architecture signature.
 
 - **Driver Signature**: `DVTRGA2 SIGLO22`
+- **Result Score**: **2 171** ✅
 - **Official Result**: [3DMark Result #12099075](https://www.3dmark.com/sn/12099075)
-- **Score**: **2 171** (Verified Record)
-- **Status**: **Master Identity Validated** ✅
+- **Status**: **Master Identity Validated** 🛡️
+
+![3DMark Record](screenshot_u9_turbo.bmp)
 
 ---
 
-## 🚀 Key Technological Upgrades
+## 🏎️ Performance Milestones (Legacy v1)
 
-### 1. Hypersonic GPU Engine (v40)
-- **Throughput**: Stable **10,000,000** particles at 20+ FPS.
-- **Speed**: **500+ FPS** in stress monitoring mode.
-- **Efficiency**: Zero-dependency C core utilizing OpenGL 4.3 Compute Shaders.
+- **Desktop Baseline**: **302 FPS** (Celeron Class Hardware)
+- **Throughput**: **8.85 GB/s**
+- **Efficiency**: Verified stable with **1,000,000 active particles**.
 
-### 2. Intel Arc "Meteor Lake" Optimization
-- Specific EU occupancy tuning for the **Intel Core Ultra 9 185H**.
-- **SoA (Struct of Arrays)** VRAM layout for maximized memory bandwidth.
-
-### 3. Real-Time Telemetry HUD
-- Procedural fragment-shader HUD displaying:
-    - **FPS**: Frames Per Second
-    - **PPS**: Points Per Second (Tracking up to 200M+ PPS)
-    - **SIGLO22**: Official Watermark Verification.
+![DVTRGA Performance Milestone](./milestone_302.png)
+*Desktop Baseline at 302 FPS (Experimental OS Environment).*
 
 ---
 
-## 🛠️ Performance Quick Start
+## 🚀 Key Features
 
-1. Run `build_hypersonic.bat` (Requires MSVC).
-2. Launch `DVTRGA_Hypersonic\bin\hypersonic.exe`.
+### [v2] Hypersonic GPU Engine (Next-Gen)
+- **Architecture**: Zero-CPU overhead GPU resident particle pipeline.
+- **Performance**: Stable **10,000,000** particles at 20+ FPS on Intel Ultra 9.
+- **HUD**: Integrated real-time telemetry with **SIGLO22** watermark.
+- **Binary Release**: Closed-source high-performance binary in `DVTRGA_Hypersonic/bin/`.
 
-### Real-Time Controls:
-- `[1]` : **10 Million Particles** (The Beast)
-- `[2]` : **5 Million Particles**
-- `[3]` : **1 Million Particles** (187 FPS Baseline)
-- `[4]` : **500k Particles**
-- `[5]` : **250k Particles** (500+ FPS Stress Mode)
+### [v1] Direct Visual Transport (Legacy)
+- **Architecture**: Native C CPU Rasterizer for Windows.
+- **Compatibility**: High-speed blitting via GDI Surface integration.
+- **API**: Full source available in `dvtrga_api.c`.
 
 ---
 
-## 🏛️ Intellectual Property & Validation
+## 🛠️ Usage & Compilation
+
+### Running Hypersonic v2 (Binaries)
+1. Launch `DVTRGA_Hypersonic\bin\hypersonic.exe`.
+2. Controls: `[1]=10M`, `[2]=5M`, `[3]=1M`, `[4]=187 FPS Baseline`.
+
+### Compiling Legacy v1 API
+```cmd
+cl /LD dvtrga_api.c /Fe:dvtrga_api.dll user32.lib gdi32.lib
+cl dvtrga_test.c dvtrga_api.lib
+```
+
+---
+
+## 🏛️ Intellectual Property & Legal
 
 **Part of Neuro-OS Genesis Ecosystem**
 - **Author**: José Manuel Moreno Cano
-- **Identity**: DVTRGA2 SIGLO22
+- **Identity**: SIGLO 22 Verified
 - **Jurisdiction**: Spain (ES)
+
+---
+
+## 📘 Disclaimer & Accountability
+The author delivers **100% legitimate and clean code**. The author is **fully excluded** from responsibility for damages results in tampered versions. See the full [DISCLAIMER](DISCLAIMER.md) for details.
 
 ---
 🤜⚖️🔱🛡️ **Neuro-OS Genesis - Siglo 22** 🛡️🔱⚖️🤜
