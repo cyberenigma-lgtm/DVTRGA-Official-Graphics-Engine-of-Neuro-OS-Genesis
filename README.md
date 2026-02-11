@@ -16,8 +16,8 @@ The repository has been officially upgraded to **DVTRGA2**. This milestone marks
 We have officially entered the **3DMark Hall of Fame** with a custom high-performance architecture signature.
 
 - **Driver Signature**: `DVTRGA2 SIGLO22`
-- **Result Score**: **2 171** ✅
-- **Official Result**: [3DMark Result #12099075](https://www.3dmark.com/sn/12099075)
+- **Result Score**: **2 193** ✅
+- **Official Result**: [3DMark Result #12105914](https://www.3dmark.com/sn/12105914)
 - **Status**: **Master Identity Validated** 🛡️
 
 ![3DMark Record](screenshot_u9_turbo.bmp)
