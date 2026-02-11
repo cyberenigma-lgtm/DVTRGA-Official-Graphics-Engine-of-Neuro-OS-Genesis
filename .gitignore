@@ -1,0 +1,33 @@
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+
+# Test outputs
+*.bmp
+*.png
+*.jpg
+dvtrga_output.*
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+desktop.ini

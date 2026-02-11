@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+; 1. Driver Instance Layer
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]
+"DriverDesc"="DVTRGA2 SIGLO22"
+"ProviderName"="Neuro-OS Genesis / SIGLO22"
+
+; 2. Video Control Layer (3DMark SystemInfo Target)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Video\{D680A668-EE65-11F0-8D53-806E6F6E6963}\0000]
+"Device Description"="DVTRGA2 SIGLO22"
+"HardwareInformation.AdapterString"="DVTRGA2 SIGLO22"
+"HardwareInformation.ChipType"="DVTRGA2 SIGLO22 Architecture"
+
+; 3. Hardware Enumeration Layer (PCI Bus Description)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\PCI\VEN_8086&DEV_7DD5&SUBSYS_22128086&REV_08\3&11583659&0&10]
+"DeviceDesc"="DVTRGA2 SIGLO22"
+"FriendlyName"="DVTRGA2 SIGLO22"
