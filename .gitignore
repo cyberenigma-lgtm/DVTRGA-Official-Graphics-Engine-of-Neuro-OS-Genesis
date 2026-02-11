@@ -20,9 +20,9 @@ x64/
 x86/
 
 # Test outputs
-*.bmp
-*.png
-*.jpg
+# *.bmp (Allowing for README milestones)
+# *.png (Allowing for Logo)
+# *.jpg
 dvtrga_output.*
 
 # Logs
