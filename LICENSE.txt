@@ -1,0 +1,49 @@
+DVTRGA ENGINE – RESTRICTED USE LICENSE
+Version 1.0 – © 2024–2026 Neuro‑OS // cyberenigma-lgtm
+
+1. DEFINITION
+“DVTRGA Engine” includes all source code, binaries, libraries, 
+associated files, documentation, internal structures, and any other 
+technical component of the graphics engine developed as part of 
+Neuro‑OS.
+
+2. GRANTED RIGHTS
+Permission is granted solely to:
+- Execute DVTRGA Engine as distributed.
+- Use it exclusively to view, test, or run official demos published 
+  by Neuro‑OS.
+
+No other rights are granted, explicitly or implicitly.
+
+3. STRICT RESTRICTIONS
+The following actions are strictly prohibited:
+- Copying, modifying, disassembling, decompiling, or performing 
+  reverse engineering.
+- Redistributing DVTRGA Engine, in whole or in part, in any form.
+- Integrating it into software owned by the user or third parties.
+- Using it for commercial, educational, or research purposes without 
+  written authorization from Neuro‑OS.
+- Creating derivative works or adaptations.
+- Using it as a base for graphics engines, operating systems, games, 
+  frameworks, or any technological product.
+
+4. INTELLECTUAL PROPERTY
+DVTRGA Engine is the exclusive property of Neuro‑OS.  
+All rights are reserved.  
+This license does not transfer any ownership rights.
+
+5. NO WARRANTY
+DVTRGA Engine is provided “as is”, without any warranty of any kind.  
+Neuro‑OS shall not be liable for any direct, indirect, incidental, or 
+consequential damages arising from the use of the software.
+
+6. TERMINATION
+Any violation of this license automatically revokes all granted 
+permissions. The user must immediately cease using the software and 
+delete all copies in their possession.
+
+7. CONTACT FOR SPECIAL PERMISSIONS
+For uses not covered by this license, written authorization from 
+Neuro‑OS is required.
+
+© 2024–2026 Neuro‑OS // cyberenigma-lgtm. All rights reserved.
