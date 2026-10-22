@@ -31,3 +31,8 @@ dvtrga_output.*
 # OS files
 Thumbs.db
 desktop.ini
+
+*.bmp
+*.dll
+*.exe
+*.bin
