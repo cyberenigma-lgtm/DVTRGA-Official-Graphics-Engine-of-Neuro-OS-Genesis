@@ -36,3 +36,14 @@ desktop.ini
 *.dll
 *.exe
 *.bin
+
+# Proprietary Kernel & Security Safeguards (Confidential)
+PROPRIETARY*/
+*kernel*
+*.gx
+*bunker*
+*secret*
+*.key
+*.lic
+dvtrga_security.c
+dvtrga_security.h
